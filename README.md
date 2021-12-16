@@ -1,1 +1,1 @@
-# RedditClone
+Faculty project, course: Advanced Software Engineering. Technologies used for the API, backend: Java 8, Spring Boot Framework, Postman, Rest API, Heroku deployment, PostgreSql, Hibernate, Git. This is a Maven project, made within the IDE-Intellij IDEA.
